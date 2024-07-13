@@ -1,0 +1,11 @@
+{
+  "name": "Simple weather Card",
+  "version": "1.0.0",
+  "description": "This is a weather widget",
+  "manifest_version": 3,
+  "author": "Kunjumon",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Weather"
+  }
+}
